@@ -12,7 +12,7 @@ for (ch = 'a'; ch <= 'z'; ch++)
 {
 putchar(ch);
 }
-for (ch_caps = 'a'; ch_caps <= 'z'; ch_caps++)
+for (ch_caps = 'A'; ch_caps <= 'Z'; ch_caps++)
 {
 putchar(ch_caps);
 }
